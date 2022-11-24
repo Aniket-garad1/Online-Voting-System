@@ -1,0 +1,40 @@
+body{
+	background-image:url("https://i.ytimg.com/vi/01fltbRTdQo/maxresdefault.jpg");
+	background-size:cover;
+	
+}
+nav{
+	height:55px;
+	 
+	 align-items:centre;
+	  display:flex;
+	 justify-content: end;
+}
+nav a{
+	 margin-left:20px;
+	 font-size:20px;
+	 color:white;
+	 text-align:center;
+	 margin-top:15px;
+	 margin-right:10px;
+}
+nav a:hover{
+	color:green;
+}
+
+table{
+	border:2px solid black;
+	padding:20px;
+	width:50%;
+	color:white;
+	font-size:20px;
+	 background-image: linear-gradient(to right, red , blue);
+	margin-left:10px;
+
+	
+}
+
+.tableStyle img{
+	width:100px;
+	height:100px;
+}

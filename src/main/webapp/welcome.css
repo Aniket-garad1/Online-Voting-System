@@ -1,0 +1,42 @@
+@charset "ISO-8859-1";
+body{
+ background-image: linear-gradient(to right,pink,purple);
+}
+ 
+nav{
+	height:55px;
+	 
+	 align-items:centre;
+	  display:flex;
+	 justify-content: end;
+}
+nav a{
+	 margin-left:20px;
+	 font-size:20px;
+	 color:black;
+	 text-align:center;
+	 margin-top:15px;
+	 margin-right:10px;
+}
+nav a:hover{
+	color:green;
+}
+
+.container{
+    height:50%;
+	width:30%;
+	margin-left:auto;
+	margin-right:auto;
+	 background-color:black;
+	margin-top:10%;
+	border:4px groove yellow;
+}
+.container a{
+	font-size:30px;
+	
+	padding:20px;
+	color:white;
+	margin:25px;
+}
+
+

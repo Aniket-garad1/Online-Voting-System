@@ -1,0 +1,87 @@
+@charset "ISO-8859-1";
+body{
+	   margin:0;
+       
+      
+       background-image:url("https://atulhost.com/wp-content/uploads/2019/07/flag-of-india-full-hd-with-visual-effects.jpg");
+       background-size:cover;
+	}
+	
+nav{
+	height:55px;
+	 
+	 align-items:centre;
+	  display:flex;
+	 justify-content: end;
+}
+nav a{
+	 margin-left:20px;
+	 font-size:20px;
+	 color:white;
+	 text-align:center;
+	 margin-top:15px;
+	 margin-right:10px;
+}
+nav a:hover{
+	color:green;
+}
+
+fieldset{
+	
+	color:white;
+	height:400px;
+	width:450px;
+	margin-left:50px;
+	padding:30px;
+	box-shadow:10px 10px 10px 10px;
+	
+
+    
+     
+}
+fieldset legend{
+	color:orange;
+	
+}
+fieldset div  {
+	height:450px;
+}
+fieldset a{
+	color:white;
+	font:30px;
+}
+#button{
+	color:white;
+	width:100px;
+	background-color:blue;
+	border-radius:30px;
+	padding:10px;
+}
+
+ fieldset label
+{
+	font-size:25px;
+}
+input[type=text]{
+	width:200px;
+	height:20px;
+}
+
+
+
+.contactme{
+	background-image:url("https://tse4.mm.bing.net/th?id=OIP.9v-kCWlqCqCd3qphIg-fngHaEp&pid=Api&P=0");
+	  background-repeat: no-repeat;
+}
+
+.about{
+	color:white;
+}
+#developer{
+	color:green;
+	font-size:20px;
+}
+#name{
+	color:white;
+}
+

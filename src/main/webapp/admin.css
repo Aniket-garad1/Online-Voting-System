@@ -1,0 +1,43 @@
+@charset "ISO-8859-1";
+body{
+	background-color:pink;
+}
+nav{
+	height:55px;
+	 
+	 align-items:centre;
+	  display:flex;
+	 justify-content: end;
+}
+nav a{
+	 margin-left:20px;
+	 font-size:20px;
+	 color:black;
+	 text-align:center;
+	 margin-top:15px;
+	 margin-right:10px;
+}
+nav a:hover{
+	color:green;
+}
+.form-container{
+	     
+	     margin-top:6%;
+	    display:block;
+	    width:30%;
+	    height:90%;
+	    border:2px groove orange;
+	    padding:30px;
+	    margin-left:auto;
+	    margin-right:20px;
+	    border-radius:20px;
+	    background-color:white;
+	    font-size:25px;
+	   
+	
+}
+
+.form-container input[type=text]
+{
+	
+}

@@ -1,0 +1,41 @@
+@charset "ISO-8859-1";
+@charset "ISO-8859-1";
+body{
+ background-image: linear-gradient(to right,pink,purple);
+}
+ 
+nav{
+	height:55px;
+	 
+	 align-items:centre;
+	  display:flex;
+	 justify-content: end;
+}
+nav a{
+	 margin-left:20px;
+	 font-size:20px;
+	 color:black;
+	 text-align:center;
+	 margin-top:15px;
+	 margin-right:10px;
+}
+nav a:hover{
+	color:green;
+}
+
+
+
+
+form{
+	margin-left:auto;
+	margin-right:auto;
+	width:40%;
+	height:55%;
+	padding:10%;
+	background-color:pink;
+
+}
+ input[type=text]{
+	width:250px;
+	height:25px;
+}

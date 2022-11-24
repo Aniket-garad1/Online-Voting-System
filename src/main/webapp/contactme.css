@@ -1,0 +1,68 @@
+@charset "ISO-8859-1";
+body{
+	margin:0;
+	padding:20px;
+	background-image:url("https://tse1.mm.bing.net/th?id=OIP.kRIldzwhnOQLLL9b9sedGQHaDv&pid=Api&P=0");
+	 
+	 background-repeat:repeat-x;
+	 background-size:cover;
+	 
+}	
+nav{
+	height:55px;
+	 
+	 align-items:centre;
+	  display:flex;
+	 justify-content: end;
+}
+nav a{
+	 margin-left:20px;
+	 font-size:20px;
+	 color:black;
+	 text-align:center;
+	 margin-top:15px;
+	 margin-right:10px;
+}
+nav a:hover{
+	color:green;
+}
+
+.contactme{
+	
+	border:2px solid red;
+	width:500px;
+	margin-top:45px;
+	margin-left:25%;
+	border-radius:20px;
+	
+	
+}
+
+.contactme form{
+	
+	padding:20px;
+	align-items:centre;
+    font-size:25px;
+    
+	
+	
+}
+.btn{
+	margin-bottom:20px;
+}
+
+.contactme input[type=text]{
+	width:250px;
+	height:30px
+}
+.contactme textarea{
+	width:250px;
+}
+.btn{
+	background-color:blue;
+	color:white;
+	width:80px;
+	height:30px;
+	
+	
+}

@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+body{
+	margin:0;
+	padding:10px;
+	background-image: linear-gradient(to right, pink, violet);
+}
+	
+nav{
+	height:55px;
+	 
+	 align-items:centre;
+	  display:flex;
+	 justify-content: end;
+}
+nav a{
+	 margin-left:20px;
+	 font-size:20px;
+	 color:black;
+	 text-align:center;
+	 margin-top:15px;
+	 margin-right:10px;
+}
+nav a:hover{
+	color:green;
+}
+
+h2{
+	color:red;
+}
+#developer{
+	font-Size:25px;
+}
+.image{
+	margin:30px;
+}
+
+#name{
+	font-size:20px;
+}
